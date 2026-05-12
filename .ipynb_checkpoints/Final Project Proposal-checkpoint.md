@@ -19,5 +19,13 @@ I plan to explore the relationship between particulate matter, or particle pollu
 3. Map (to see spatial differences color NYC with asthma pts and then another graph doing PM2.5)
 4. Multi-panel (two Bouroughs the most effected vs least effected for ex. Manhattan vs Bronx)
 
+# Results
+## Do the resulting plots offer explanations to the research question?
+- Research Q: **Which boroughs in NYC experience higher air pollution (PM2.5), and does this relate to higher pediatric asthma rates over time? (2009-2023)** 
+- Yes, the results of the graphs indicate that across all boroughs and years, there is a positive association between annual PM2.5 concentrations and pediatric asthma hospitalization rates (ages 5–17). So that when particulate matter pollution increases, asthma hospitalizations also tend to increase. In terms of  a spatial inequality, the Bronx emerges as a persistent hotspot of pediatric asthma vulnerability, indicating higher exposure  compared to other boroughs. Manhattan emerges to be the most polluted with the highest PM2.5 rates. Winter months show a heightened vulnerability compared to the summer months, this could be due to increased pollutant accumulation and respiratory system stress under colder conditions. Despite long-term improvements in air quality (between 2009-2023), pediatric asthma remains persistently high in certain boroughs, suggesting that reductions in PM2.5 alone do not immediately eliminate health disparities, and might include wider strucutral inequaliteis.
+## Does the research accept the alternative hypothesis?
+-Yes, the Bronx is actually known for having an "Asthma Alley", owing to the industrailied infrastrucutre and activites in certain parts of the Borough, and indeed higher air pollution rates do lead to higher pediatric asthma hospitlaizations (aged 5-17) in the Bronx.
+
+
 
 
